@@ -1,0 +1,7 @@
+{
+    "name": "greet",
+    "version": "1.0.0",
+    "description": "A simple plugin that greets the user.",
+    "author": "Faruk Diblen",
+    "entry_point": "plugin.py"
+}
