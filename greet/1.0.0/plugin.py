@@ -5,4 +5,5 @@ def run(args):
     Simple greeting plugin example
     """
     print("Hello from the greet plugin!")
+    return "Hello from the greet plugin!"
 
