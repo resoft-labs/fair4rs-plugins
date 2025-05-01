@@ -1,0 +1,19 @@
+{
+    "fair_assessment": {
+        "description": "Run all FAIR principle checks.",
+        "plugins": [
+            "fair_findable",
+            "fair_accessible",
+            "fair_interoperable",
+            "fair_reusable"
+        ]
+    },
+    "repo_overview": {
+        "description": "Get basic repository information.",
+        "plugins": [
+            "repo_info",
+            "license_analyzer",
+            "citation_analyzer"
+        ]
+    }
+}
